@@ -51,4 +51,6 @@ Key features:
   - Revenue by customer job and education level.
   - Revenue by usage type (Chip, Swipe, Online) via donut chart.
 
-(Transaction_report.png)
+### Dashboard images
+![Transaction_report](Transaction_report.png)
+![customer_dashboard](customer_dashboard.png)
